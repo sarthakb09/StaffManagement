@@ -1,0 +1,102 @@
+[
+    {
+      "Id": "1",
+      "Name": "Mike Wazowski",
+      "Position": "UX/UI Designer",
+      "Skill": "Middle",
+      "Experience": "1 year 3 months",
+      "ENG_Lvl": "B1",
+      "Start_Date": "01/24//22",
+      "Project": " Squiz Mobile",
+      "Status": "In Work"
+    },
+    {
+      "Id": "2",
+      "Name": "Jane Cooper",
+      "Position": "IT Recruiter",
+      "Skill": "Junior",
+      "Experience": "0 year 4 months",
+      "ENG_Lvl": "B2",
+      "Start_Date": "-",
+      "Project": "GitNation",
+      "Status": "Pending"
+    },
+    {
+      "Id": "3",
+      "Name": "Brooklyn Simmons",
+      "Position": "Event Manager",
+      "Skill": "Middle",
+      "Experience": "2 year 11 months",
+      "ENG_Lvl": "B1",
+      "Start_Date": "05/13/21",
+      "Project": " Squiz Mobile",
+      "Status": "In Work"
+    },
+    {
+      "Id": "4",
+      "Name": "Wade Warren",
+      "Position": "Front-End Developer",
+      "Skill": "Senior",
+      "Experience": "4 year 3 months",
+      "ENG_Lvl": "B2",
+      "Start_Date": "05/24/21",
+      "Project": "IT Solutions",
+      "Status": "On Vacation"
+    },
+    {
+      "Id": "5",
+      "Name": "Eleanor Pena",
+      "Position": "UX/UI Designer",
+      "Skill": "Junior",
+      "Experience": "0 year 3 months",
+      "ENG_Lvl": "A2+",
+      "Start_Date": "12/01/21",
+      "Project": "JazzTeam",
+      "Status": "In Work"
+    },
+    {
+      "Id": "6",
+      "Name": "Theresa Webb",
+      "Position": "PHP Developer",
+      "Skill": "Middle",
+      "Experience": "2 year 0 months",
+      "ENG_Lvl": "B1",
+      "Start_Date": "21/11/20",
+      "Project": "Ciklum",
+      "Status": "In Work"
+    },
+    {
+      "Id": "7",
+      "Name": "Bessie Cooper",
+      "Position": "UX/UI Designer",
+      "Skill": "Middle",
+      "Experience": "1 year 9 months",
+      "ENG_Lvl": "B1+",
+      "Start_Date": "05/24/21",
+      "Project": "Instinctools",
+      "Status": "In Work"
+    },
+    {
+      "Id": "8",
+      "Name": "Kristin Watson",
+      "Position": "IT Recruter",
+      "Skill": "Middle",
+      "Experience": "1 year 6 months",
+      "ENG_Lvl": "B2+",
+      "Start_Date": "05/24/20",
+      "Project": " Squiz Mobile",
+      "Status": "On Vacation"
+    },
+    {
+      "Id": "9",
+      "Name": "Jenny Wilson",
+      "Position": "IT Sourcer",
+      "Skill": "Junior",
+      "Experience": "0 year 6 months",
+      "ENG_Lvl": "B1",
+      "Start_Date": "09/01/21",
+      "Project": "USETECH",
+      "Status": "Pending"
+    }
+  ]
+  
